@@ -2,7 +2,7 @@
 
 Um exemplo simples da utilização de modules em golang na versão 1.11beta2
 
-##Estrutura
+## [Estrutura]
 
 ```go
    modhello
@@ -13,7 +13,7 @@ Um exemplo simples da utilização de modules em golang na versão 1.11beta2
           go.mod
           main.go
 ```
-##go run
+## [go run]
 ```go
 
    $ cd modhello/modapp
